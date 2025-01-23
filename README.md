@@ -17,7 +17,7 @@ Welcome to **Exercise Hub**, a collection of practical exercises designed to hel
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/exercise-hub.git
+   git clone https://github.com/Alexanderbjorne/PythonProject2.git
    ```
 2. Navigate to the desired topic folder.
 3. Read the instructions in the exercise file and complete it.
@@ -37,7 +37,7 @@ Contributions are welcome! If you have an idea for a new exercise, feel free to:
 
 ## 📬 Feedback
 
-Have suggestions or questions? Feel free to [open an issue](https://github.com/your-username/exercise-hub/issues) or contact me directly.
+Have suggestions or questions? Feel free to [open an issue](https://github.com/alexanderbjorne/PythonProject2/issues) or contact me directly.
 
 ---
 
