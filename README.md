@@ -33,8 +33,6 @@ Contributions are welcome! If you have an idea for a new exercise, feel free to:
 2. Add your exercise in the relevant folder.
 3. Submit a pull request.
 
-For detailed guidelines, check the [CONTRIBUTING.md](./CONTRIBUTING.md).
-
 ---
 
 ## 📬 Feedback
@@ -46,8 +44,6 @@ Have suggestions or questions? Feel free to [open an issue](https://github.com/y
 ## 🛠️ Future Plans
 
 - Add more advanced exercises
-- Include interactive coding challenges
-- Expand topics to cover niche domains
 
 ---
 
