@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f5dc4e-0a86-407b-9175-5780d45c1489" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99f5dc4e-0a86-407b-9175-5780d45c1489" name="Changes" comment="When you Were Born (Simpler Way)">
+      <change beforePath="$PROJECT_DIR$/Session5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,24 +22,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Alexanderbjorne"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alexanderbjorne&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Alexanderbjorne/PythonProject2.git",
-    "accountId": "defe5bc7-9847-4bb5-9793-ef3b6fbc9291"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alexanderbjorne/PythonProject2.git&quot;,
+    &quot;accountId&quot;: &quot;defe5bc7-9847-4bb5-9793-ef3b6fbc9291&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Exercises.py" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2s2JxZZxdOFQySzU9fMUnUdQdce" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Exercises.executor": "Run",
+    "Python.Session5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -77,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737647984286</updated>
       <workItem from="1737647985385" duration="1936000" />
+      <workItem from="1737711598116" duration="2519000" />
     </task>
     <task id="LOCAL-00001" summary="Distance Calculator">
       <option name="closed" value="true" />
@@ -134,7 +136,47 @@
       <option name="project" value="LOCAL" />
       <updated>1737649405336</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Speed Limit Check">
+      <option name="closed" value="true" />
+      <created>1737713074777</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737713074777</updated>
+    </task>
+    <task id="LOCAL-00009" summary="What is your name, capitalized">
+      <option name="closed" value="true" />
+      <created>1737713296005</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737713296005</updated>
+    </task>
+    <task id="LOCAL-00010" summary="When you Were Born">
+      <option name="closed" value="true" />
+      <created>1737713627679</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737713627679</updated>
+    </task>
+    <task id="LOCAL-00011" summary="When you Were Born">
+      <option name="closed" value="true" />
+      <created>1737713709394</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737713709394</updated>
+    </task>
+    <task id="LOCAL-00012" summary="When you Were Born (Simpler Way)">
+      <option name="closed" value="true" />
+      <created>1737713899509</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737713899509</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,9 +185,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Distance Calculator" />
     <MESSAGE value="Updated Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Calculator" />
+    <MESSAGE value="Speed Limit Check" />
+    <MESSAGE value="What is your name, capitalized" />
+    <MESSAGE value="When you Were Born" />
+    <MESSAGE value="When you Were Born (Simpler Way)" />
+    <option name="LAST_COMMIT_MESSAGE" value="When you Were Born (Simpler Way)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject2$Exercises.coverage" NAME="Exercises Coverage Results" MODIFIED="1737649386769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject2$Exercises.coverage" NAME="Exercises Coverage Results" MODIFIED="1737712989348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject2$Session5.coverage" NAME="Session5 Coverage Results" MODIFIED="1737713861396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
