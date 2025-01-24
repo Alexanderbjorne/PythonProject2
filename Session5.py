@@ -18,3 +18,7 @@ except ValueError:
     print(f"{capitalized_name} based on my advanced calculations, you were born in {2024 - age2}.")
 except:
     print("This is another type of error.")
+else: # This is for no exception
+    print("Thank you for playing as expected.")
+finally: # This will be executed no matter what, at the very end
+    print("Thank you for playing the game.")
