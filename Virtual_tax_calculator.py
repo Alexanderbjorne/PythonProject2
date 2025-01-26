@@ -27,7 +27,7 @@ if children > 0:
 else:
     taxcut = 0
 
-print(f"Your tax cut is {taxcut}")
+print(f"Your tax cut is {taxcut * 100}%, because you have {children} children")
 if salary < 1000:
     net = salary -(salary * (0.1 - taxcut))
     print(f"Your net salary is {net}")
