@@ -35,3 +35,4 @@ elif salary >= 4000:
         net = salary - (salary * (0.18 - taxcut))
         print(f"Your net salary is {net}")
 
+### End
