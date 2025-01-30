@@ -19,13 +19,7 @@ except ValueError:
     print("Please enter a valid value for children.")
     children = input("How many children do you have? ")
 
-if children > 0:
-    if salary < 2000:
-        taxcut = (children * 1)/100
-    else:
-        taxcut = (children * 0.5)/100
-else:
-    taxcut = 0
+taxcut = (children * 1) / 100 if children > 0 and salary < 2000 else (children * 0.5) / 100 if children > 0 else 0
 
 print(f"Your tax cut is {taxcut * 100}%, because you have {children} children")
 if salary < 1000:

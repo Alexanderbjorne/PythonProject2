@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f5dc4e-0a86-407b-9175-5780d45c1489" name="Changes" comment="Adjustment to output" />
+    <list default="true" id="99f5dc4e-0a86-407b-9175-5780d45c1489" name="Changes" comment="Adjustment to output">
+      <change beforePath="$PROJECT_DIR$/Virtual_tax_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual_tax_calculator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +84,7 @@
       <workItem from="1737647985385" duration="1936000" />
       <workItem from="1737711598116" duration="10152000" />
       <workItem from="1737901520072" duration="5095000" />
+      <workItem from="1738251460062" duration="445000" />
     </task>
     <task id="LOCAL-00001" summary="Distance Calculator">
       <option name="closed" value="true" />
@@ -259,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737920208285</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Adjustment to output">
+      <option name="closed" value="true" />
+      <created>1738251462900</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1738251462900</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
