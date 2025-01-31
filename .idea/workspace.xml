@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f5dc4e-0a86-407b-9175-5780d45c1489" name="Changes" comment="Added String Slice Examples">
-      <change afterPath="$PROJECT_DIR$/string_methods.py" afterDir="false" />
+    <list default="true" id="99f5dc4e-0a86-407b-9175-5780d45c1489" name="Changes" comment="String Methods">
+      <change afterPath="$PROJECT_DIR$/competition_inclass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.Session5.executor": "Run",
     "Python.Virtual_tax_calculator.executor": "Run",
     "Python.While_examples.executor": "Run",
+    "Python.competition_inclass.executor": "Run",
     "Python.slice_string_examples.executor": "Run",
     "Python.string_methods.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,7 +89,7 @@
       <workItem from="1737711598116" duration="10152000" />
       <workItem from="1737901520072" duration="5095000" />
       <workItem from="1738251460062" duration="1760000" />
-      <workItem from="1738321548639" duration="2862000" />
+      <workItem from="1738321548639" duration="3354000" />
     </task>
     <task id="LOCAL-00001" summary="Distance Calculator">
       <option name="closed" value="true" />
@@ -298,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738322812480</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="String Methods">
+      <option name="closed" value="true" />
+      <created>1738324811463</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1738324811463</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,12 +340,14 @@
     <MESSAGE value="Virtual Tax Calculator - Finished" />
     <MESSAGE value="Adjustment to output" />
     <MESSAGE value="Added String Slice Examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added String Slice Examples" />
+    <MESSAGE value="String Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Methods" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject2$Exercises.coverage" NAME="Exercises Coverage Results" MODIFIED="1737712989348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject2$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1738324387792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject2$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1738324510497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject2$slice_string_examples.coverage" NAME="slice_string_examples Coverage Results" MODIFIED="1738322768070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject2$competition_inclass.coverage" NAME="competition_inclass Coverage Results" MODIFIED="1738324864277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject2$If_examples.coverage" NAME="If_examples Coverage Results" MODIFIED="1737719336017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject2$Session5.coverage" NAME="Session5 Coverage Results" MODIFIED="1737716901730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject2$Virtual_tax_calculator.coverage" NAME="Virtual_tax_calculator Coverage Results" MODIFIED="1737920180243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
